@@ -3,7 +3,7 @@
     <head>
         <title>tests</title>
         <meta charset="utf-8">
-        
+        <style>https://plough-guy.github.io/css-for-test-website/</style>
         
     </head>
     <body>
