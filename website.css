@@ -1,1 +1,10 @@
-ol{font-family: sans-serif;}
+ol{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+p{
+    border-color: aqua;
+    border-left: 30px;
+}
