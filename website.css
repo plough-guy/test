@@ -7,6 +7,7 @@ ol{
 p{
     border-color: aqua;
     border-radius: 3px;
+    color: blue;
     border-left: 2px;
     border-left: 30px;
 }
